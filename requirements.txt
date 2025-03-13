@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-pickle
+pickle5
 eaborn
 skikit-learn

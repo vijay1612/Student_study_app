@@ -1,6 +1,1 @@
-streamlit
-numpy
-pandas
-pickle5
-eaborn
 skikit-learn

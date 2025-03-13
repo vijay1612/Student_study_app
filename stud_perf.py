@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler,LabelEncoder
 
 
 def load_model():
-    with  open("/Users/vijju/Desktop/projects/data_science/9thfeb_model.ipynb/student_lr_model.pkl",'rb') as file:
+    with  open("/Users/vijju/Desktop/projects/data_science/9thfeb_model.ipynb/stud_per_app/student_lr_model.pkl",'rb') as file:
         model,scaler,le=pickle.load(file)
     return model,scaler,le
 
